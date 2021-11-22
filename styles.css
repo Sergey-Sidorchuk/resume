@@ -52,13 +52,13 @@ body {
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
-  color: #5a626e;
+  color: #b5b9be;;
 }
 .contacts-link-type {
   font-size: 14px;
   font-weight: 700;
   line-height: 24px;
-  color: #ffffff;
+  color: #b5b9be;
   margin-right: 10px;
 }
 .tech-skills-title {
@@ -89,6 +89,10 @@ body {
   margin-left: 40px;
   margin-right: 40px;
 }
+.soft-skills-container-last {
+  margin-bottom: 20px;
+}
+
 .soft-skills-title {
   font-size: 22px;
   font-weight: 700;
@@ -119,6 +123,7 @@ body {
 }
 .description {
   font-size: 14px;
+  color: 000;
   font-weight: 400;
   line-height: 24px;
   margin-top: 24px;
@@ -170,7 +175,7 @@ body {
   color: #ff7214;
 }
 .profession-period {
-  color: #a8a8a8;
+  color: #000000;
   font-size: 12px;
   font-weight: 400;
   line-height: 24px;
@@ -184,7 +189,7 @@ body {
 }
 
 .profession-duties-item {
-  color: #595959;
+  color: #000000;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
