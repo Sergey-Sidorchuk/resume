@@ -210,3 +210,8 @@ body {
 .project-list {
   margin-bottom: 15px;
 }
+
+.net-soc {
+  fill: #ff6b08;
+  background: rgb(9, 243, 60);
+}
